@@ -1,4 +1,4 @@
-# Gen AI Pipeline
+# Gen AI Pipeline 
 
 ## 1. Data Acquisition
 
@@ -18,7 +18,7 @@
 ## 2. Data Preprocessing
 
 ### 2.1 Cleanup
-- Remove HTML tags, emojis, and correct spelling errors.
+- Process of removing HTML tags, emojis, and correct spelling errors.
 
 ### 2.2 Basic Preprocessing
 1. **Tokenization**:
