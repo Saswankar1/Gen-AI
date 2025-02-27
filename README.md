@@ -1,2 +1,2 @@
 # Gen-AI
-It contains all resources and code related to Generative AI
+It contains all resources and code related to Gen AI
